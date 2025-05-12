@@ -1,0 +1,6 @@
+main/paths_local.txt
+main/paths_remote.txt
+src/paths_local.txt
+src/paths_remote.txt
+systemd/run.sh.j2
+systemd/service.j2
